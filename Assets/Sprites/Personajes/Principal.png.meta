@@ -1,0 +1,678 @@
+fileFormatVersion: 2
+guid: d8e162721f0bc68488b0ce43e1edf51d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3984893643832805677
+    second: Principal_0
+  - first:
+      213: -4066523522161778654
+    second: Principal_1
+  - first:
+      213: 7228855899509609802
+    second: Principal_2
+  - first:
+      213: 1597783107812504688
+    second: Principal_3
+  - first:
+      213: -6560006339622488255
+    second: Principal_4
+  - first:
+      213: -3595956956647352911
+    second: Principal_5
+  - first:
+      213: 767314626170398351
+    second: Principal_6
+  - first:
+      213: 2209640575869841249
+    second: Principal_7
+  - first:
+      213: -5773765283160412680
+    second: Principal_8
+  - first:
+      213: -1344866419660254772
+    second: Principal_9
+  - first:
+      213: -7090261320700707390
+    second: Principal_10
+  - first:
+      213: -3624471581202484492
+    second: Principal_11
+  - first:
+      213: -7115054338695314628
+    second: Principal_12
+  - first:
+      213: -1620730266783175318
+    second: Principal_13
+  - first:
+      213: 7243127144887365195
+    second: Principal_14
+  - first:
+      213: -2583579738056051526
+    second: Principal_15
+  - first:
+      213: -6862386324035940292
+    second: Principal_16
+  - first:
+      213: -6662925998554470554
+    second: Principal_17
+  - first:
+      213: -6440425717226494914
+    second: Principal_18
+  - first:
+      213: 8832604547099908635
+    second: Principal_19
+  - first:
+      213: -8338012013472138330
+    second: Principal_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Principal_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 711
+        width: 128
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d632a30850d2b8c0800000000000000
+      internalID: -3984893643832805677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 711
+        width: 133
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220e6c6e66ec097c0800000000000000
+      internalID: -4066523522161778654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal_2
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 711
+        width: 130
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45d1c6f32e025460800000000000000
+      internalID: 7228855899509609802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal_3
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 711
+        width: 122
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074b84965477c2610800000000000000
+      internalID: 1597783107812504688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 498
+        width: 144
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147bd729dfc26f4a0800000000000000
+      internalID: -6560006339622488255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 498
+        width: 133
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5907b3338981ec0800000000000000
+      internalID: -3595956956647352911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal_6
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 499
+        width: 135
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8629db469c06aa00800000000000000
+      internalID: 767314626170398351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal_7
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 498
+        width: 124
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fe20685683aae10800000000000000
+      internalID: 2209640575869841249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal_8
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 498
+        width: 136
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdadb0d0177fdfa0800000000000000
+      internalID: -5773765283160412680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 241
+        width: 148
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc19cc1ed13165de0800000000000000
+      internalID: -1344866419660254772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 243
+        width: 134
+        height: 146
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd31f605e45a9d90800000000000000
+      internalID: -7090261320700707390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal_11
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 260
+        width: 139
+        height: 148
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f27de7dc4a43bdc0800000000000000
+      internalID: -3624471581202484492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal_12
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 300
+        width: 133
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33c670b6cf324d90800000000000000
+      internalID: -7115054338695314628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal_13
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 324
+        width: 166
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d2aabc8620289e0800000000000000
+      internalID: -1620730266783175318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 333
+        width: 169
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e200633c1c48460800000000000000
+      internalID: 7243127144887365195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal_15
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 302
+        width: 164
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4b548aae7452cd0800000000000000
+      internalID: -2583579738056051526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal_16
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 244
+        width: 144
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30d65c2ff7e3c0a0800000000000000
+      internalID: -6862386324035940292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal_17
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 242
+        width: 139
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66722732b188883a0800000000000000
+      internalID: -6662925998554470554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal_18
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 241
+        width: 128
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34ac6adee20f96a0800000000000000
+      internalID: -6440425717226494914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal_19
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 297
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ad367d907b39a70800000000000000
+      internalID: 8832604547099908635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal_20
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 281
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abbd0c104e694c80800000000000000
+      internalID: -8338012013472138330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 76acda90095e8854081628b543c26f8c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Principal_0: -3984893643832805677
+      Principal_1: -4066523522161778654
+      Principal_10: -7090261320700707390
+      Principal_11: -3624471581202484492
+      Principal_12: -7115054338695314628
+      Principal_13: -1620730266783175318
+      Principal_14: 7243127144887365195
+      Principal_15: -2583579738056051526
+      Principal_16: -6862386324035940292
+      Principal_17: -6662925998554470554
+      Principal_18: -6440425717226494914
+      Principal_19: 8832604547099908635
+      Principal_2: 7228855899509609802
+      Principal_20: -8338012013472138330
+      Principal_3: 1597783107812504688
+      Principal_4: -6560006339622488255
+      Principal_5: -3595956956647352911
+      Principal_6: 767314626170398351
+      Principal_7: 2209640575869841249
+      Principal_8: -5773765283160412680
+      Principal_9: -1344866419660254772
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: d811bbdd85b64b74b9e70301a55bc0ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6449798959144201228
+    second: Personajes de fondo_0
+  - first:
+      213: -8131099701371834543
+    second: Personajes de fondo_1
+  - first:
+      213: -3937105258445162602
+    second: Personajes de fondo_2
+  - first:
+      213: 427241504846243644
+    second: Personajes de fondo_3
+  - first:
+      213: 4600845220195654902
+    second: Personajes de fondo_4
+  - first:
+      213: 8422291317122290125
+    second: Personajes de fondo_5
+  - first:
+      213: 5154600029936429944
+    second: Personajes de fondo_6
+  - first:
+      213: 7663915551879994532
+    second: Personajes de fondo_7
+  - first:
+      213: 7814108132624956601
+    second: Personajes de fondo_8
+  - first:
+      213: -7081117594955656068
+    second: Personajes de fondo_9
+  - first:
+      213: 7476913559051768151
+    second: Personajes de fondo_10
+  - first:
+      213: 7534400732757720670
+    second: Personajes de fondo_11
+  - first:
+      213: -5288456362966611148
+    second: Personajes de fondo_12
+  - first:
+      213: -2191857271831751341
+    second: Personajes de fondo_13
+  - first:
+      213: -6535124299201659733
+    second: Personajes de fondo_14
+  - first:
+      213: -1225259155949144158
+    second: Personajes de fondo_15
+  - first:
+      213: 5413384953153207289
+    second: Personajes de fondo_16
+  - first:
+      213: 3759040136550163710
+    second: Personajes de fondo_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personajes de fondo_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 668
+        width: 154
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c69781bf9428950800000000000000
+      internalID: 6449798959144201228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes de fondo_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 671
+        width: 174
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f627ae6e7882f80800000000000000
+      internalID: -8131099701371834543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes de fondo_2
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 671
+        width: 152
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697bd0b80a79c59c0800000000000000
+      internalID: -3937105258445162602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes de fondo_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 671
+        width: 166
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37e9a192eddde500800000000000000
+      internalID: 427241504846243644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes de fondo_4
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 669
+        width: 159
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcd058f95c79df30800000000000000
+      internalID: 4600845220195654902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes de fondo_5
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 668
+        width: 173
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc15ee7645df1e470800000000000000
+      internalID: 8422291317122290125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes de fondo_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 371
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b249fba61d88740800000000000000
+      internalID: 5154600029936429944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes de fondo_7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 374
+        width: 169
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac166ad692bb5a60800000000000000
+      internalID: 7663915551879994532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes de fondo_8
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 371
+        width: 155
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcf99912f9417c60800000000000000
+      internalID: 7814108132624956601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes de fondo_9
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 373
+        width: 173
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7456e39011dabd90800000000000000
+      internalID: -7081117594955656068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes de fondo_10
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 372
+        width: 159
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751159f744553c760800000000000000
+      internalID: 7476913559051768151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes de fondo_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 370
+        width: 178
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e77772c819f8860800000000000000
+      internalID: 7534400732757720670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes de fondo_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 70
+        width: 158
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b883315f0ab96b0800000000000000
+      internalID: -5288456362966611148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes de fondo_13
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 71
+        width: 169
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3559c1a9c65f491e0800000000000000
+      internalID: -2191857271831751341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes de fondo_14
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 68
+        width: 164
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacbf0f03139e45a0800000000000000
+      internalID: -6535124299201659733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes de fondo_15
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 69
+        width: 170
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a73bd31a410ffee0800000000000000
+      internalID: -1225259155949144158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes de fondo_16
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 67
+        width: 157
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb342dfee4302b40800000000000000
+      internalID: 5413384953153207289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personajes de fondo_17
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 65
+        width: 170
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef42283861bca2430800000000000000
+      internalID: 3759040136550163710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Personajes de fondo_0: 6449798959144201228
+      Personajes de fondo_1: -8131099701371834543
+      Personajes de fondo_10: 7476913559051768151
+      Personajes de fondo_11: 7534400732757720670
+      Personajes de fondo_12: -5288456362966611148
+      Personajes de fondo_13: -2191857271831751341
+      Personajes de fondo_14: -6535124299201659733
+      Personajes de fondo_15: -1225259155949144158
+      Personajes de fondo_16: 5413384953153207289
+      Personajes de fondo_17: 3759040136550163710
+      Personajes de fondo_2: -3937105258445162602
+      Personajes de fondo_3: 427241504846243644
+      Personajes de fondo_4: 4600845220195654902
+      Personajes de fondo_5: 8422291317122290125
+      Personajes de fondo_6: 5154600029936429944
+      Personajes de fondo_7: 7663915551879994532
+      Personajes de fondo_8: 7814108132624956601
+      Personajes de fondo_9: -7081117594955656068
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

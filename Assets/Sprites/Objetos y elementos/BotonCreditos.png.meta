@@ -1,0 +1,3954 @@
+fileFormatVersion: 2
+guid: 185849adcd46aaf4d8adb4beb8436d88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7136149661640068917
+    second: BotonCreditos_0
+  - first:
+      213: 1547389272754664637
+    second: BotonCreditos_1
+  - first:
+      213: 4330984008149530827
+    second: BotonCreditos_2
+  - first:
+      213: -7538638303104129584
+    second: BotonCreditos_3
+  - first:
+      213: 7894591624730863190
+    second: BotonCreditos_4
+  - first:
+      213: 7312351606337257175
+    second: BotonCreditos_5
+  - first:
+      213: -5480015156394381859
+    second: BotonCreditos_6
+  - first:
+      213: -269171357172440047
+    second: BotonCreditos_7
+  - first:
+      213: -1556517411474670667
+    second: BotonCreditos_8
+  - first:
+      213: 3490974506910262016
+    second: BotonCreditos_9
+  - first:
+      213: -957457921545394585
+    second: BotonCreditos_10
+  - first:
+      213: -3750130875436977896
+    second: BotonCreditos_11
+  - first:
+      213: -7046807435082519678
+    second: BotonCreditos_12
+  - first:
+      213: -885260383002305420
+    second: BotonCreditos_13
+  - first:
+      213: 3832962163287267980
+    second: BotonCreditos_14
+  - first:
+      213: -4484813716756872348
+    second: BotonCreditos_15
+  - first:
+      213: -487033252057771558
+    second: BotonCreditos_16
+  - first:
+      213: -305963882044147348
+    second: BotonCreditos_17
+  - first:
+      213: 4687578322956053869
+    second: BotonCreditos_18
+  - first:
+      213: 7592721412064877431
+    second: BotonCreditos_19
+  - first:
+      213: 2609190491930390824
+    second: BotonCreditos_20
+  - first:
+      213: -3054299594988466772
+    second: BotonCreditos_21
+  - first:
+      213: -8431100894026385610
+    second: BotonCreditos_22
+  - first:
+      213: 6628073360134996171
+    second: BotonCreditos_23
+  - first:
+      213: -3437179153289737280
+    second: BotonCreditos_24
+  - first:
+      213: -5847052656018532544
+    second: BotonCreditos_25
+  - first:
+      213: -1130089705435838463
+    second: BotonCreditos_26
+  - first:
+      213: 5435574187616397363
+    second: BotonCreditos_27
+  - first:
+      213: 2429486995728156797
+    second: BotonCreditos_28
+  - first:
+      213: -724170175916453493
+    second: BotonCreditos_29
+  - first:
+      213: -631699238659002493
+    second: BotonCreditos_30
+  - first:
+      213: 1099532703374166501
+    second: BotonCreditos_31
+  - first:
+      213: 7355879887475784340
+    second: BotonCreditos_32
+  - first:
+      213: -8686911065337537650
+    second: BotonCreditos_33
+  - first:
+      213: 846815308816424310
+    second: BotonCreditos_34
+  - first:
+      213: 808687022450688324
+    second: BotonCreditos_35
+  - first:
+      213: -3394487491630016025
+    second: BotonCreditos_36
+  - first:
+      213: -2621336561228552065
+    second: BotonCreditos_37
+  - first:
+      213: -3732555175262169255
+    second: BotonCreditos_38
+  - first:
+      213: 4454411505635724103
+    second: BotonCreditos_39
+  - first:
+      213: -6541158505650552353
+    second: BotonCreditos_40
+  - first:
+      213: 3385500246696649466
+    second: BotonCreditos_41
+  - first:
+      213: -4621448091974023953
+    second: BotonCreditos_42
+  - first:
+      213: -5591364433326222824
+    second: BotonCreditos_43
+  - first:
+      213: -2754620522395069674
+    second: BotonCreditos_44
+  - first:
+      213: -2287916886136311413
+    second: BotonCreditos_45
+  - first:
+      213: 576328506467354755
+    second: BotonCreditos_46
+  - first:
+      213: 3993283629169295638
+    second: BotonCreditos_47
+  - first:
+      213: -2182568224302949898
+    second: BotonCreditos_48
+  - first:
+      213: -3432976261890451532
+    second: BotonCreditos_49
+  - first:
+      213: -9124537045321642289
+    second: BotonCreditos_50
+  - first:
+      213: 7685420187910103340
+    second: BotonCreditos_51
+  - first:
+      213: -7434772151282131866
+    second: BotonCreditos_52
+  - first:
+      213: 6975449019408138614
+    second: BotonCreditos_53
+  - first:
+      213: -3590760070027812195
+    second: BotonCreditos_54
+  - first:
+      213: 9118184554603505431
+    second: BotonCreditos_55
+  - first:
+      213: -6864315307734628602
+    second: BotonCreditos_56
+  - first:
+      213: 4908120879772819355
+    second: BotonCreditos_57
+  - first:
+      213: -5593977112373697828
+    second: BotonCreditos_58
+  - first:
+      213: 3451489367239007607
+    second: BotonCreditos_59
+  - first:
+      213: 7588835210840283129
+    second: BotonCreditos_60
+  - first:
+      213: -5062549689856844569
+    second: BotonCreditos_61
+  - first:
+      213: 1538266682591785817
+    second: BotonCreditos_62
+  - first:
+      213: -7752509887929853374
+    second: BotonCreditos_63
+  - first:
+      213: -2536064830856229274
+    second: BotonCreditos_64
+  - first:
+      213: -4932863188757549317
+    second: BotonCreditos_65
+  - first:
+      213: 362979918621474831
+    second: BotonCreditos_66
+  - first:
+      213: 4728027464476055110
+    second: BotonCreditos_67
+  - first:
+      213: -147065915780088341
+    second: BotonCreditos_68
+  - first:
+      213: -6064633853191381142
+    second: BotonCreditos_69
+  - first:
+      213: -1736365381260298582
+    second: BotonCreditos_70
+  - first:
+      213: 1322884783335840131
+    second: BotonCreditos_71
+  - first:
+      213: 5387238852530509840
+    second: BotonCreditos_72
+  - first:
+      213: 7977172789843218633
+    second: BotonCreditos_73
+  - first:
+      213: 8938514651514429707
+    second: BotonCreditos_74
+  - first:
+      213: -1166253500245886716
+    second: BotonCreditos_75
+  - first:
+      213: 2044992869281010812
+    second: BotonCreditos_76
+  - first:
+      213: -4730253884202344187
+    second: BotonCreditos_77
+  - first:
+      213: -8489440830105504815
+    second: BotonCreditos_78
+  - first:
+      213: -5940735934434974238
+    second: BotonCreditos_79
+  - first:
+      213: 1225685680724367411
+    second: BotonCreditos_80
+  - first:
+      213: 8455864414704781246
+    second: BotonCreditos_81
+  - first:
+      213: -3174118212239239600
+    second: BotonCreditos_82
+  - first:
+      213: -4709834468702683504
+    second: BotonCreditos_83
+  - first:
+      213: 4945710050922676342
+    second: BotonCreditos_84
+  - first:
+      213: 684395149873324145
+    second: BotonCreditos_85
+  - first:
+      213: 2109079963853604738
+    second: BotonCreditos_86
+  - first:
+      213: -3045206957966512379
+    second: BotonCreditos_87
+  - first:
+      213: 845820522638708523
+    second: BotonCreditos_88
+  - first:
+      213: -69093462312111744
+    second: BotonCreditos_89
+  - first:
+      213: -1382648944550350057
+    second: BotonCreditos_90
+  - first:
+      213: 4909173446310752205
+    second: BotonCreditos_91
+  - first:
+      213: -2536532966825180041
+    second: BotonCreditos_92
+  - first:
+      213: -1037274772414045476
+    second: BotonCreditos_93
+  - first:
+      213: -2240059545116480651
+    second: BotonCreditos_94
+  - first:
+      213: 4591290121635543341
+    second: BotonCreditos_95
+  - first:
+      213: 7080054438648299685
+    second: BotonCreditos_96
+  - first:
+      213: -1672672465381002162
+    second: BotonCreditos_97
+  - first:
+      213: 7506030749573456903
+    second: BotonCreditos_98
+  - first:
+      213: -306653425034565202
+    second: BotonCreditos_99
+  - first:
+      213: -68377434895525371
+    second: BotonCreditos_100
+  - first:
+      213: 8730196035859788122
+    second: BotonCreditos_101
+  - first:
+      213: 631886832671479653
+    second: BotonCreditos_102
+  - first:
+      213: -2715370623703271248
+    second: BotonCreditos_103
+  - first:
+      213: -6727774367216941824
+    second: BotonCreditos_104
+  - first:
+      213: -8071785868142760300
+    second: BotonCreditos_105
+  - first:
+      213: -7198766925789354304
+    second: BotonCreditos_106
+  - first:
+      213: -917969212528841338
+    second: BotonCreditos_107
+  - first:
+      213: 5944396865161481572
+    second: BotonCreditos_108
+  - first:
+      213: -8566768048885393715
+    second: BotonCreditos_109
+  - first:
+      213: -6953407732153691465
+    second: BotonCreditos_110
+  - first:
+      213: 5545441985820870988
+    second: BotonCreditos_111
+  - first:
+      213: 2197127307149218282
+    second: BotonCreditos_112
+  - first:
+      213: 8720276445941762094
+    second: BotonCreditos_113
+  - first:
+      213: 2335937617331813850
+    second: BotonCreditos_114
+  - first:
+      213: -979215412164726888
+    second: BotonCreditos_115
+  - first:
+      213: -8013312891728498525
+    second: BotonCreditos_116
+  - first:
+      213: 5383680572209212834
+    second: BotonCreditos_117
+  - first:
+      213: -8036969790561347168
+    second: BotonCreditos_118
+  - first:
+      213: 2078529774195900352
+    second: BotonCreditos_119
+  - first:
+      213: -9163923672789509499
+    second: BotonCreditos_120
+  - first:
+      213: 1702295888630815932
+    second: BotonCreditos_121
+  - first:
+      213: 8106799882531534665
+    second: BotonCreditos_122
+  - first:
+      213: -687122570921960308
+    second: BotonCreditos_123
+  - first:
+      213: -6531618037233831866
+    second: BotonCreditos_124
+  - first:
+      213: 8488571459687171854
+    second: BotonCreditos_125
+  - first:
+      213: 5038357542642012809
+    second: BotonCreditos_126
+  - first:
+      213: 7864412938947586730
+    second: BotonCreditos_127
+  - first:
+      213: 8439927781474172263
+    second: BotonCreditos_128
+  - first:
+      213: 3358448846272441319
+    second: BotonCreditos_129
+  - first:
+      213: 6577270857801675700
+    second: BotonCreditos_130
+  - first:
+      213: 8639942092909287794
+    second: BotonCreditos_131
+  - first:
+      213: 318787258648302328
+    second: BotonCreditos_132
+  - first:
+      213: 306629317954376881
+    second: BotonCreditos_133
+  - first:
+      213: 5643394221738199410
+    second: BotonCreditos_134
+  - first:
+      213: 4938821347592761341
+    second: BotonCreditos_135
+  - first:
+      213: 1417628057677064839
+    second: BotonCreditos_136
+  - first:
+      213: -4176332206978969938
+    second: BotonCreditos_137
+  - first:
+      213: -8720857226964510505
+    second: BotonCreditos_138
+  - first:
+      213: -2951646043055497717
+    second: BotonCreditos_139
+  - first:
+      213: 6489132902454215435
+    second: BotonCreditos_140
+  - first:
+      213: 2719044308294249365
+    second: BotonCreditos_141
+  - first:
+      213: -6512432039002541667
+    second: BotonCreditos_142
+  - first:
+      213: -5088659633405596555
+    second: BotonCreditos_143
+  - first:
+      213: -904183053087472451
+    second: BotonCreditos_144
+  - first:
+      213: -2422192573578941361
+    second: BotonCreditos_145
+  - first:
+      213: -1737629380172412671
+    second: BotonCreditos_146
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BotonCreditos_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1169
+        width: 361
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f841eee42b80360800000000000000
+      internalID: 7136149661640068917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1141
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4bacb585e697510800000000000000
+      internalID: 1547389272754664637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1141
+        width: 285
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc876a5420fba1c30800000000000000
+      internalID: 4330984008149530827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_3
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1199
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5235d9760616790800000000000000
+      internalID: -7538638303104129584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_4
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1149
+        width: 67
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6566bde51493f8d60800000000000000
+      internalID: 7894591624730863190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_5
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1183
+        width: 101
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de3d702b01ba7560800000000000000
+      internalID: 7312351606337257175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_6
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1175
+        width: 103
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd2b57ef3313f3b0800000000000000
+      internalID: -5480015156394381859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_7
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1231
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114e608a316b34cf0800000000000000
+      internalID: -269171357172440047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_8
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1237
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb775a39a3266ae0800000000000000
+      internalID: -1556517411474670667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_9
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1167
+        width: 157
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003a45c61de627030800000000000000
+      internalID: 3490974506910262016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_10
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1167
+        width: 101
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76627ead71d66b2f0800000000000000
+      internalID: -957457921545394585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_11
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1159
+        width: 53
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811ba5c76dbd4fbc0800000000000000
+      internalID: -3750130875436977896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_12
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1151
+        width: 135
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b235f29f5b43e90800000000000000
+      internalID: -7046807435082519678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1203
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cdb693f5ce6b3f0800000000000000
+      internalID: -885260383002305420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1213
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a104497ca613530800000000000000
+      internalID: 3832962163287267980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_15
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1166
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46348e8afadb2c1c0800000000000000
+      internalID: -4484813716756872348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_16
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1197
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad11b4176d5bd39f0800000000000000
+      internalID: -487033252057771558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_17
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1202
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69b8a8687ff0cbf0800000000000000
+      internalID: -305963882044147348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_18
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1183
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ded9c16af9d0140800000000000000
+      internalID: 4687578322956053869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_19
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 1205
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b11a475e3ce5960800000000000000
+      internalID: 7592721412064877431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_20
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1201
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82176d6ade4b53420800000000000000
+      internalID: 2609190491930390824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_21
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1183
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadc71363b2fc95d0800000000000000
+      internalID: -3054299594988466772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_22
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1194
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63734122866befa80800000000000000
+      internalID: -8431100894026385610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_23
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 1167
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc08310aa95abfb50800000000000000
+      internalID: 6628073360134996171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_24
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1173
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb89c265cfac40d0800000000000000
+      internalID: -3437179153289737280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_25
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1181
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047d20f96981bdea0800000000000000
+      internalID: -5847052656018532544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_26
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1185
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108cb2f766d1150f0800000000000000
+      internalID: -1130089705435838463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_27
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1167
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338682bbce90f6b40800000000000000
+      internalID: 5435574187616397363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_28
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1182
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78cec6fc8547b120800000000000000
+      internalID: 2429486995728156797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_29
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1181
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b815193df0b33f5f0800000000000000
+      internalID: -724170175916453493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_30
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1183
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f68daa3e0cb37f0800000000000000
+      internalID: -631699238659002493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_31
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1173
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9ca8b0b23524f00800000000000000
+      internalID: 1099532703374166501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_32
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1181
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a3f67d8c5551660800000000000000
+      internalID: 7355879887475784340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_33
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1183
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b552b4964e17780800000000000000
+      internalID: -8686911065337537650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_34
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1155
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d9d58690e70cb00800000000000000
+      internalID: 846815308816424310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_35
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1183
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44144a3ff88093b00800000000000000
+      internalID: 808687022450688324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_36
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1167
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9d2e27c9b54e0d0800000000000000
+      internalID: -3394487491630016025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_37
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1183
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f786a3739442f9bd0800000000000000
+      internalID: -2621336561228552065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_38
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1185
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957d3f118dc433cc0800000000000000
+      internalID: -3732555175262169255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_39
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1183
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b84d4f9af31dd30800000000000000
+      internalID: 4454411505635724103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_40
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1167
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd18c23eef22935a0800000000000000
+      internalID: -6541158505650552353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1159
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2e9578986bbfe20800000000000000
+      internalID: 3385500246696649466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_42
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1155
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe44bf122715ddfb0800000000000000
+      internalID: -4621448091974023953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 2285
+        height: 1134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81256d51cab7762b0800000000000000
+      internalID: -5591364433326222824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_44
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1127
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61314afba3f95c9d0800000000000000
+      internalID: -2754620522395069674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_45
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 951
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b813a36c6bfaf30e0800000000000000
+      internalID: -2287916886136311413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_46
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 964
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3880bed19b78ff700800000000000000
+      internalID: 576328506467354755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_47
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 935
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611c40cad4efa6730800000000000000
+      internalID: 3993283629169295638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_48
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 855
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f91e5483c5f5b1e0800000000000000
+      internalID: -2182568224302949898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_49
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 859
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7dbab474e9b50d0800000000000000
+      internalID: -3432976261890451532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_50
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 757
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce06b1b6e12f5180800000000000000
+      internalID: -9124537045321642289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_51
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 693
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c216ff911f818aa60800000000000000
+      internalID: 7685420187910103340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_52
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 672
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c9cd89e1262d890800000000000000
+      internalID: -7434772151282131866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_53
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 587
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6714ba6fce5cdc060800000000000000
+      internalID: 6975449019408138614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_54
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 415
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92e550bdbe0b2ec0800000000000000
+      internalID: -3590760070027812195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_55
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 407
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717689dca8c4a8e70800000000000000
+      internalID: 9118184554603505431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_56
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 399
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6078338a89d0db0a0800000000000000
+      internalID: -6864315307734628602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_57
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 401
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f59819fe52d1440800000000000000
+      internalID: 4908120879772819355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_58
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 403
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2ec4754733e52b0800000000000000
+      internalID: -5593977112373697828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_59
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 400
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d9150fa4726ef20800000000000000
+      internalID: 3451489367239007607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_60
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 399
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f79c19ba65f05960800000000000000
+      internalID: 7588835210840283129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_61
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 391
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec915e21e53eb9b0800000000000000
+      internalID: -5062549689856844569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_62
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 368
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953b3b1d565095510800000000000000
+      internalID: 1538266682591785817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_63
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 373
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24adc3cd45d896490800000000000000
+      internalID: -7752509887929853374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_64
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 351
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e047519761eccd0800000000000000
+      internalID: -2536064830856229274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_65
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 365
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe6184b013fa8bb0800000000000000
+      internalID: -4932863188757549317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_66
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 367
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0088061050990500800000000000000
+      internalID: 362979918621474831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_67
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 373
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646d264cde35d9140800000000000000
+      internalID: 4728027464476055110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_68
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 369
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed3c5b245485fdf0800000000000000
+      internalID: -147065915780088341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_69
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 367
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f18bf64a716dba0800000000000000
+      internalID: -6064633853191381142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_70
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 363
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6b1b9a2e037e7e0800000000000000
+      internalID: -1736365381260298582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_71
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 367
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389908593b4db5210800000000000000
+      internalID: 1322884783335840131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_72
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 367
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018934d813153ca40800000000000000
+      internalID: 5387238852530509840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 359
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c05482336c94be60800000000000000
+      internalID: 7977172789843218633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_74
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 351
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01642f97bbfb0c70800000000000000
+      internalID: 8938514651514429707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_75
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 351
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409b9cfde92a0dfe0800000000000000
+      internalID: -1166253500245886716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_76
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 348
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7493b50e26416c10800000000000000
+      internalID: 2044992869281010812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_77
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 350
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50125be7723ca5eb0800000000000000
+      internalID: -4730253884202344187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_78
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 348
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d33dd34b827f2a80800000000000000
+      internalID: -8489440830105504815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_79
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 353
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5ea9b94244e8da0800000000000000
+      internalID: -5940735934434974238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_80
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 347
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338dbd5f1a2820110800000000000000
+      internalID: 1225685680724367411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_81
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 353
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7485352e3495570800000000000000
+      internalID: 8455864414704781246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_82
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 351
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056d16c9d4443f3d0800000000000000
+      internalID: -3174118212239239600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_83
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 351
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ef516218e43aeb0800000000000000
+      internalID: -4709834468702683504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_84
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 357
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670435b7611b2a440800000000000000
+      internalID: 4945710050922676342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_85
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 351
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170233243c57f7900800000000000000
+      internalID: 684395149873324145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_86
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 349
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28743608d05f44d10800000000000000
+      internalID: 2109079963853604738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_87
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 351
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fabdae7604db5d0800000000000000
+      internalID: -3045206957966512379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_88
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 351
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f8d93b845fcbb00800000000000000
+      internalID: 845820522638708523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_89
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 353
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081b592bcd78a0ff0800000000000000
+      internalID: -69093462312111744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_90
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 351
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713f10b4c18dfcce0800000000000000
+      internalID: -1382648944550350057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_91
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 351
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfe1205d33e02440800000000000000
+      internalID: 4909173446310752205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_92
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 349
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774415fa4bc6cccd0800000000000000
+      internalID: -2536532966825180041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_93
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 341
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd269c7171cda91f0800000000000000
+      internalID: -1037274772414045476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_94
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 349
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57beb9946b5b9e0e0800000000000000
+      internalID: -2240059545116480651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_95
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 351
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29b8d83a0a87bf30800000000000000
+      internalID: 4591290121635543341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_96
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 345
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a04f0e0008614260800000000000000
+      internalID: 7080054438648299685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_97
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 317
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e447363414979c8e0800000000000000
+      internalID: -1672672465381002162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_98
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 342
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7042c75b237ca2860800000000000000
+      internalID: 7506030749573456903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_99
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 341
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea968aba55c8ebbf0800000000000000
+      internalID: -306653425034565202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_100
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 329
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a5662d5131d0ff0800000000000000
+      internalID: -68377434895525371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_101
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 335
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5132f04a03e72970800000000000000
+      internalID: 8730196035859788122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_102
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 343
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56751a7f9b9e4c800800000000000000
+      internalID: 631886832671479653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_103
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 308
+        width: 91
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8b2acedc0115ad0800000000000000
+      internalID: -2715370623703271248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_104
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 322
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0054e09bbd422a2a0800000000000000
+      internalID: -6727774367216941824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_105
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 311
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e2552e4814bff80800000000000000
+      internalID: -8071785868142760300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 317
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6ae772f97d81c90800000000000000
+      internalID: -7198766925789354304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_107
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 321
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d29746dd7b243f0800000000000000
+      internalID: -917969212528841338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_108
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 311
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d45ef347dbe7250800000000000000
+      internalID: 5944396865161481572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_109
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 313
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6150529d9bc1980800000000000000
+      internalID: -8566768048885393715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_110
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 309
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b256822288808f90800000000000000
+      internalID: -6953407732153691465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_111
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 319
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49c367ea1e55fc40800000000000000
+      internalID: 5545441985820870988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_112
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 313
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae190fc15a3cd7e10800000000000000
+      internalID: 2197127307149218282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_113
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 305
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28809fb935a40970800000000000000
+      internalID: 8720276445941762094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_114
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 315
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addf88af2eaea6020800000000000000
+      internalID: 2335937617331813850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_115
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 309
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f655f45c02962f0800000000000000
+      internalID: -979215412164726888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_116
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 327
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0f67e916efac090800000000000000
+      internalID: -8013312891728498525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_117
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 319
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ada3bad4fca6ba40800000000000000
+      internalID: 5383680572209212834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_118
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 309
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a99b03ae82f67090800000000000000
+      internalID: -8036969790561347168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_119
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 311
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cff40e21db68dc10800000000000000
+      internalID: 2078529774195900352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_120
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 305
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a969ed8f333d080800000000000000
+      internalID: -9163923672789509499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_121
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 311
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc92707715cf9710800000000000000
+      internalID: 1702295888630815932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_122
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 317
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947787f9a83218070800000000000000
+      internalID: 8106799882531534665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_123
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 318
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c1b0b89a9d676f0800000000000000
+      internalID: -687122570921960308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_124
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 315
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640b42a40080b55a0800000000000000
+      internalID: -6531618037233831866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_125
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 308
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e074c29a4c67dc570800000000000000
+      internalID: 8488571459687171854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_126
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 325
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982569c9d77dbe540800000000000000
+      internalID: 5038357542642012809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_127
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 311
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaae4f886e1042d60800000000000000
+      internalID: 7864412938947586730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_128
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 315
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76df7b0c995a02570800000000000000
+      internalID: 8439927781474172263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_129
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 319
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eba36e8e6b9b9e20800000000000000
+      internalID: 3358448846272441319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_130
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 307
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b33cce4ff8274b50800000000000000
+      internalID: 6577270857801675700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_131
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 294
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2799dcf9e8d37e770800000000000000
+      internalID: 8639942092909287794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_132
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 309
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f217ae925f8c6400800000000000000
+      internalID: 318787258648302328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_133
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 309
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b414667dbd514400800000000000000
+      internalID: 306629317954376881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_134
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 311
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279823a052d515e40800000000000000
+      internalID: 5643394221738199410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_135
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 311
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffe16049d73a8440800000000000000
+      internalID: 4938821347592761341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_136
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 303
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ae771253d6ca310800000000000000
+      internalID: 1417628057677064839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_137
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 315
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaecef22cffaa06c0800000000000000
+      internalID: -4176332206978969938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_138
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 303
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8d1e1ae8a49f680800000000000000
+      internalID: -8720857226964510505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_139
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 303
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e5df4ff85a907d0800000000000000
+      internalID: -2951646043055497717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_140
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 303
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03451f6ef70e0a50800000000000000
+      internalID: 6489132902454215435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_141
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 305
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b2d6c646cfbb520800000000000000
+      internalID: 2719044308294249365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_142
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 295
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91716b90913f95a0800000000000000
+      internalID: -6512432039002541667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_143
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 287
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c6df736037169b0800000000000000
+      internalID: -5088659633405596555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_144
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 245
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db40bc4cd42b373f0800000000000000
+      internalID: -904183053087472451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_145
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 194
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cec3a00b4a26ed0800000000000000
+      internalID: -2422192573578941361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BotonCreditos_146
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 118
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1098a8bf843b2e7e0800000000000000
+      internalID: -1737629380172412671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BotonCreditos_0: 7136149661640068917
+      BotonCreditos_1: 1547389272754664637
+      BotonCreditos_10: -957457921545394585
+      BotonCreditos_100: -68377434895525371
+      BotonCreditos_101: 8730196035859788122
+      BotonCreditos_102: 631886832671479653
+      BotonCreditos_103: -2715370623703271248
+      BotonCreditos_104: -6727774367216941824
+      BotonCreditos_105: -8071785868142760300
+      BotonCreditos_106: -7198766925789354304
+      BotonCreditos_107: -917969212528841338
+      BotonCreditos_108: 5944396865161481572
+      BotonCreditos_109: -8566768048885393715
+      BotonCreditos_11: -3750130875436977896
+      BotonCreditos_110: -6953407732153691465
+      BotonCreditos_111: 5545441985820870988
+      BotonCreditos_112: 2197127307149218282
+      BotonCreditos_113: 8720276445941762094
+      BotonCreditos_114: 2335937617331813850
+      BotonCreditos_115: -979215412164726888
+      BotonCreditos_116: -8013312891728498525
+      BotonCreditos_117: 5383680572209212834
+      BotonCreditos_118: -8036969790561347168
+      BotonCreditos_119: 2078529774195900352
+      BotonCreditos_12: -7046807435082519678
+      BotonCreditos_120: -9163923672789509499
+      BotonCreditos_121: 1702295888630815932
+      BotonCreditos_122: 8106799882531534665
+      BotonCreditos_123: -687122570921960308
+      BotonCreditos_124: -6531618037233831866
+      BotonCreditos_125: 8488571459687171854
+      BotonCreditos_126: 5038357542642012809
+      BotonCreditos_127: 7864412938947586730
+      BotonCreditos_128: 8439927781474172263
+      BotonCreditos_129: 3358448846272441319
+      BotonCreditos_13: -885260383002305420
+      BotonCreditos_130: 6577270857801675700
+      BotonCreditos_131: 8639942092909287794
+      BotonCreditos_132: 318787258648302328
+      BotonCreditos_133: 306629317954376881
+      BotonCreditos_134: 5643394221738199410
+      BotonCreditos_135: 4938821347592761341
+      BotonCreditos_136: 1417628057677064839
+      BotonCreditos_137: -4176332206978969938
+      BotonCreditos_138: -8720857226964510505
+      BotonCreditos_139: -2951646043055497717
+      BotonCreditos_14: 3832962163287267980
+      BotonCreditos_140: 6489132902454215435
+      BotonCreditos_141: 2719044308294249365
+      BotonCreditos_142: -6512432039002541667
+      BotonCreditos_143: -5088659633405596555
+      BotonCreditos_144: -904183053087472451
+      BotonCreditos_145: -2422192573578941361
+      BotonCreditos_146: -1737629380172412671
+      BotonCreditos_15: -4484813716756872348
+      BotonCreditos_16: -487033252057771558
+      BotonCreditos_17: -305963882044147348
+      BotonCreditos_18: 4687578322956053869
+      BotonCreditos_19: 7592721412064877431
+      BotonCreditos_2: 4330984008149530827
+      BotonCreditos_20: 2609190491930390824
+      BotonCreditos_21: -3054299594988466772
+      BotonCreditos_22: -8431100894026385610
+      BotonCreditos_23: 6628073360134996171
+      BotonCreditos_24: -3437179153289737280
+      BotonCreditos_25: -5847052656018532544
+      BotonCreditos_26: -1130089705435838463
+      BotonCreditos_27: 5435574187616397363
+      BotonCreditos_28: 2429486995728156797
+      BotonCreditos_29: -724170175916453493
+      BotonCreditos_3: -7538638303104129584
+      BotonCreditos_30: -631699238659002493
+      BotonCreditos_31: 1099532703374166501
+      BotonCreditos_32: 7355879887475784340
+      BotonCreditos_33: -8686911065337537650
+      BotonCreditos_34: 846815308816424310
+      BotonCreditos_35: 808687022450688324
+      BotonCreditos_36: -3394487491630016025
+      BotonCreditos_37: -2621336561228552065
+      BotonCreditos_38: -3732555175262169255
+      BotonCreditos_39: 4454411505635724103
+      BotonCreditos_4: 7894591624730863190
+      BotonCreditos_40: -6541158505650552353
+      BotonCreditos_41: 3385500246696649466
+      BotonCreditos_42: -4621448091974023953
+      BotonCreditos_43: -5591364433326222824
+      BotonCreditos_44: -2754620522395069674
+      BotonCreditos_45: -2287916886136311413
+      BotonCreditos_46: 576328506467354755
+      BotonCreditos_47: 3993283629169295638
+      BotonCreditos_48: -2182568224302949898
+      BotonCreditos_49: -3432976261890451532
+      BotonCreditos_5: 7312351606337257175
+      BotonCreditos_50: -9124537045321642289
+      BotonCreditos_51: 7685420187910103340
+      BotonCreditos_52: -7434772151282131866
+      BotonCreditos_53: 6975449019408138614
+      BotonCreditos_54: -3590760070027812195
+      BotonCreditos_55: 9118184554603505431
+      BotonCreditos_56: -6864315307734628602
+      BotonCreditos_57: 4908120879772819355
+      BotonCreditos_58: -5593977112373697828
+      BotonCreditos_59: 3451489367239007607
+      BotonCreditos_6: -5480015156394381859
+      BotonCreditos_60: 7588835210840283129
+      BotonCreditos_61: -5062549689856844569
+      BotonCreditos_62: 1538266682591785817
+      BotonCreditos_63: -7752509887929853374
+      BotonCreditos_64: -2536064830856229274
+      BotonCreditos_65: -4932863188757549317
+      BotonCreditos_66: 362979918621474831
+      BotonCreditos_67: 4728027464476055110
+      BotonCreditos_68: -147065915780088341
+      BotonCreditos_69: -6064633853191381142
+      BotonCreditos_7: -269171357172440047
+      BotonCreditos_70: -1736365381260298582
+      BotonCreditos_71: 1322884783335840131
+      BotonCreditos_72: 5387238852530509840
+      BotonCreditos_73: 7977172789843218633
+      BotonCreditos_74: 8938514651514429707
+      BotonCreditos_75: -1166253500245886716
+      BotonCreditos_76: 2044992869281010812
+      BotonCreditos_77: -4730253884202344187
+      BotonCreditos_78: -8489440830105504815
+      BotonCreditos_79: -5940735934434974238
+      BotonCreditos_8: -1556517411474670667
+      BotonCreditos_80: 1225685680724367411
+      BotonCreditos_81: 8455864414704781246
+      BotonCreditos_82: -3174118212239239600
+      BotonCreditos_83: -4709834468702683504
+      BotonCreditos_84: 4945710050922676342
+      BotonCreditos_85: 684395149873324145
+      BotonCreditos_86: 2109079963853604738
+      BotonCreditos_87: -3045206957966512379
+      BotonCreditos_88: 845820522638708523
+      BotonCreditos_89: -69093462312111744
+      BotonCreditos_9: 3490974506910262016
+      BotonCreditos_90: -1382648944550350057
+      BotonCreditos_91: 4909173446310752205
+      BotonCreditos_92: -2536532966825180041
+      BotonCreditos_93: -1037274772414045476
+      BotonCreditos_94: -2240059545116480651
+      BotonCreditos_95: 4591290121635543341
+      BotonCreditos_96: 7080054438648299685
+      BotonCreditos_97: -1672672465381002162
+      BotonCreditos_98: 7506030749573456903
+      BotonCreditos_99: -306653425034565202
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
